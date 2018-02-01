@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_70a141cf05f66fc40096a76dfa2fd8e7aac3c81a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_59593490add266a5f508e42250191a8042652cac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_0bc6cc71497fb2948793a4da42030b5f4f8f4465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_2376ba18db38378276bea0bfe35203d2d0072ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_b9485b982e56f0f4772af7670ea0d475e0a6451d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_68e6bcbe67cbd55c4dc5c8d12abbbce49356feec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e8752a66f3c19b528be6e80a749fec90df33cb0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_2d458c75f28c76fea3a980d28bb43a5bed803f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_ba70042449283b772e0cd3e6fbef5b9c70b3f935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_c6cfb70500df9680a72c9941025122e7a83255ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b6bf00cccfdc77c20b6a00006f81ed27ae04363a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_0ca63b9bb1a8d21ea9470950dbe1c9abd2aa13d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2d32181f949228d48d07655a9bbdc4ec9a7f7c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_88444bd2ed82baea6787fc6b498d5cdf1f59567f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_34a977b3b7ef751bcf7042264183bad6bfb6fbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_9376a253112887de29b3a1b408b0df290a054046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_22b5a3b8606997b01f6def82b23f62e90bae1350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_d0ccee8a22c63a93154bf201dd594beac8dcdab2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_602cefa9161269f8524398f246c8b0e005225ef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c1259e5ab939507fcc091e5ffa0377e62ddf6c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_599fc012164ab293eb94f4c8fd98ccf64b8e3a26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_3d98558bdf3aace4e3d24fad88eb86b43f60f9f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_bed623519b30267994af443d1d08e77df0e41221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_c3a7a7a35c44ffe2b57d77e098fd0b5476e35332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_6d9789c5dc1b76cf7346b3b216f9d9c790b50dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_105d0a5086924f6f87e80e8a5f7ed9808278f6ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7e79c7538997375d548fd25cf5a4ce38f8aa9dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4bae64af72dcb2a331d4b193cbaecb2f83598a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_439ef366f1008db09928f8434d7f57c972466b3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/cindy/Documents/workspaces/github/RecyclerViewDemo2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_5f93e2b573ba8e1aeebecc8a19f1895cf1177266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/cindy/Documents/workspaces/github/mini/RecyclerView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_54a8d6debf1907398847e283d51d7f4fdd6d4e90.jar" />
+    </item>
+
+</items>
